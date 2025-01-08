@@ -4,6 +4,8 @@ import Features from '../../../components/User/Features'
 import Products from '../Products'
 import About from '../About'
 import Cards from '../../../components/User/Cards'
+import CustomFlower from '../CustomFlower'
+
 
 function Home() {
   return (
@@ -13,6 +15,8 @@ function Home() {
     <Products/>
     <About/>
     <Cards/>
+    <CustomFlower/>
+  
     </>
   )
 }
